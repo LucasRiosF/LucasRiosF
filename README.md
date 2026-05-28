@@ -73,6 +73,12 @@ API backend para gerenciamento de alunos e integração com banco de dados.
 
 </div>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-used-languages.vercel.app/LucasRiosF?theme=dark">
+  <img alt="Most Used Languages'" src="https://github-used-languages.vercel.app/LucasRiosF">
+</picture>
+
+
 ---
 
 ## 🎯 Objetivos Atuais
